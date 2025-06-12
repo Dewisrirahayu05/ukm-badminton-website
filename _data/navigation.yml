@@ -4,8 +4,8 @@ main:
     url: /home/
   - title: "About"
     url: /about/
-  - title: "Jadwal"
-    url: /jadwal/
+  - title: "Schedule"
+    url: /schedule/
   - title: "Gallery"
     url: /gallery/
   - title: "Contact"
