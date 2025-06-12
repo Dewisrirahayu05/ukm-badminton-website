@@ -1,6 +1,6 @@
 ---
-title: "Jadwal Kegiatan"
-permalink: /jadwal/
+title: "activity schedule"
+permalink: /schedule/
 layout: single
 ---
 
