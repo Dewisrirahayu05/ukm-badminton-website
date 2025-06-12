@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Beranda"
-    url: /
-  - title: "Tentang"
-    url: /tentang/
+  - title: "Home"
+    url: /home/
+  - title: "About"
+    url: /about/
   - title: "Jadwal"
     url: /jadwal/
-  - title: "Galeri"
-    url: /galeri/
-  - title: "Kontak"
-    url: /kontak/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Contact"
+    url: /contact/
