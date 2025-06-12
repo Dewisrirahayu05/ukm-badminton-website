@@ -1,9 +1,8 @@
 ---
-title: "Tentang Kami"
-permalink: /tentang/
+title: "About Us"
+permalink: /about/
 layout: single
 ---
-![Logo UKM](/assets/Logo%20Ukm%20Bavera.jpeg.jpg)
 
 UKM Badminton adalah komunitas mahasiswa pecinta bulutangkis yang aktif berlatih dan mengikuti kompetisi.  
 Kami membuka pendaftaran anggota baru setiap semester.
