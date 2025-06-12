@@ -1,6 +1,6 @@
 ---
-title: "Galeri"
-permalink: /galeri/
+title: "Gallery"
+permalink: /gallery/
 layout: single
 ---
 
