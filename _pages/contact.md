@@ -1,6 +1,6 @@
 ---
-title: "Kontak Kami"
-permalink: /kontak/
+title: "contact us"
+permalink: /contact/
 layout: single
 ---
 
