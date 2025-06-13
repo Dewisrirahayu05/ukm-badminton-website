@@ -1,11 +1,43 @@
 ---
-title: "About"
+title: "APA ITU BAVERA ?"
 permalink: /about/
 layout: single
 ---
+Bavera adalah Badminton Universitas Indraprasta PGRI. Yang merupakan Unit Kegiatan Mahasiswa (UKM) Badminton di Universitas Indraprasta PGRI.
+UKM Bavera adalah wadah bagi mahasiswa-mahasiswi Universitas Indraprasta yang memiliki minat dan bakat dalam olahraga badminton.
 
-UKM Badminton adalah komunitas mahasiswa pecinta bulutangkis yang aktif berlatih dan mengikuti kompetisi.  
-Kami membuka pendaftaran anggota baru setiap semester.
+BAVERA dibentuk pada tanggal 16 September 2019, pada saat itu kami membentuk komunitas untuk
+mempermudah atlit-atlit Badminton Universitas Indraprasta PGRI untuk dapat mengikuti beberapa
+kejuaraan dan juga membantu mewadahi bagi mahasiswa Universitas Indraprasta PGRI untuk belajar
+badminton. BAVERA awal mula berjumlah 13 orang dari beberapa macam prodi yang ada di Universitas
+Indraprasta PGRI dan saat ini kami berjumlah kurang lebih 70 orang anggota.
 
-**Visi**: Menjadi UKM olahraga yang berprestasi dan solid.  
-**Misi**: Latihan rutin, ikut kompetisi, dan membangun solidaritas anggota.
+Awal mulanya sebelum terbentuk Badminton Universitas Indraprasta PGRI pada saat itu kami
+berniat untuk membentuk Unit Kegiatan Mahasiswa Badminton, dengan tidak ada-nya komunitas atau
+Unit Kegiatan Mahasiswa badminton di kampus, pada tanggal 18 Agustus 2022 ada undangan kejuaraan
+badminton dari Universitas Nasional (UNAS) yang diikutsertakan berbagai macam Universitas, Bavera
+mengirimkan 2 pasang untuk mewakili kejuaraan itu, kami pun mampu bersaing dan mendapat juara 2.
+Bavera pun tidak hanya mengikuti kejuaraan saja, Bavera juga beberapa kali sparing seperti
+dengan BUVEJA (Bulutangkis Veteran Jakarta), STIE ( Sekolah Tinggi Ilmu Ekonomi), Bulutangkis Universitas Gunadarma, Bulutangis UT Bogor, Badminton UNDIRA (Universitas Dian Nusantra).
+
+**Logo BAVERA**
+![](/assets/logo_bavera.jpg){: width="100%" .center}
+
+Logo UKM Badminton BAVERA memiliki makna sebagai berikut:
+a. Lingkaran
+sebuah simbol kebebasan berpendapat, kebebasan berekspresi, bahkan kebebasan dalam mengembangkan sayap organisasi.
+b. Air
+Air selalu mencari celah untuk bergerak, bahkan ketika celah itu tidak ada sekalipun. Ini melambangkan sikap pantang menyerah yang wajib dimiliki oleh setiap anggota BAVERA.
+c. Shuttlecock
+Shuttlecock adalah symbol dari organisasi Bulutangkis
+d. Warna Ungu
+Warna ini menyimbolkan tentang spiritualitas, kebijaksanaan, penguasaan, dan kekuatan mental.
+
+**Visi**:
+Menjadikan Unit Kegiatan Mahasiswa BAVERA meraih keunggulan dan prestasi di dalam
+maupunluar kampus bahkan nasional.
+
+**Misi**:
+a.Meningkatkan kinerja pengurus dan anggota agar tercipta suatu persatuan,kesatuan dan kekeluargaan dalam satu organisasi.
+b.Meningkatkan kualitas pelatihan agar bisa melihat potensial anggota dalam mengasah bakat dan kemampuannya dalam bermain badminton.
+c.Memberikan pengalaman kepadaa para anggota melalui kejuaraan badminton seperti kejuaraantingkat fakultas, tingkat universitas, maupun sparing antar Unit Kegiatan Mahasiswa.
