@@ -42,6 +42,5 @@ layouts_home:
   {% for item in page.layouts_home %}
     <img src="{{ item.image_path }}" alt="{{ item.alt }}">
   {% endfor %}
+  {% include gallery id="layouts_home" %}
 </div>
-
-{% include gallery id="layouts_home" %}
