@@ -48,6 +48,7 @@ layouts_home:
 </style>
 
 <div class="gallery-background">
+  {% for item in page.layouts_home %}
     <img src="{{ item.image_path }}" alt="{{ item.alt }}">
   {% endfor %}
 </div>
