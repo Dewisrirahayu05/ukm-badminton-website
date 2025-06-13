@@ -3,6 +3,9 @@ title: "APA ITU BAVERA ?"
 permalink: /about/
 layout: single
 author_profile: true
+header:
+  overlay_image: /assets/images/FEEDS2.png
+  overlay_filter: 0.3
 ---
 
 Bavera adalah Badminton Universitas Indraprasta PGRI. Yang merupakan Unit Kegiatan Mahasiswa (UKM) Badminton di Universitas Indraprasta PGRI.
@@ -22,25 +25,36 @@ mengirimkan 2 pasang untuk mewakili kejuaraan itu, kami pun mampu bersaing dan m
 Bavera pun tidak hanya mengikuti kejuaraan saja, Bavera juga beberapa kali sparing seperti
 dengan BUVEJA (Bulutangkis Veteran Jakarta), STIE ( Sekolah Tinggi Ilmu Ekonomi), Bulutangkis Universitas Gunadarma, Bulutangis UT Bogor, Badminton UNDIRA (Universitas Dian Nusantra).
 
-**Logo BAVERA**
+---
 
-![bavera](/assets/logo_bavera.jpg)
+### **Logo BAVERA**
+
+<p align="center">
+  <img src="/assets/logo_bavera.jpg" alt="Logo BAVERA" width="250"/>
+</p>
 
 Logo UKM Badminton BAVERA memiliki makna sebagai berikut:
-a. Lingkaran
+- Lingkaran
 sebuah simbol kebebasan berpendapat, kebebasan berekspresi, bahkan kebebasan dalam mengembangkan sayap organisasi.
-b. Air
+- Air
 Air selalu mencari celah untuk bergerak, bahkan ketika celah itu tidak ada sekalipun. Ini melambangkan sikap pantang menyerah yang wajib dimiliki oleh setiap anggota BAVERA.
-c. Shuttlecock
+- Shuttlecock
 Shuttlecock adalah symbol dari organisasi Bulutangkis
-d. Warna Ungu
+- Warna Ungu
 Warna ini menyimbolkan tentang spiritualitas, kebijaksanaan, penguasaan, dan kekuatan mental.
 
-**Visi**:
+---
+
+### **Visi**:
+
 Menjadikan Unit Kegiatan Mahasiswa BAVERA meraih keunggulan dan prestasi di dalam
 maupunluar kampus bahkan nasional.
 
+---
+
 **Misi**:
-a.Meningkatkan kinerja pengurus dan anggota agar tercipta suatu persatuan,kesatuan dan kekeluargaan dalam satu organisasi.
-b.Meningkatkan kualitas pelatihan agar bisa melihat potensial anggota dalam mengasah bakat dan kemampuannya dalam bermain badminton.
-c.Memberikan pengalaman kepadaa para anggota melalui kejuaraan badminton seperti kejuaraantingkat fakultas, tingkat universitas, maupun sparing antar Unit Kegiatan Mahasiswa.
+- Meningkatkan kinerja pengurus dan anggota agar tercipta suatu persatuan,kesatuan dan kekeluargaan dalam satu organisasi.
+- Meningkatkan kualitas pelatihan agar bisa melihat potensial anggota dalam mengasah bakat dan kemampuannya dalam bermain badminton.
+- Memberikan pengalaman kepadaa para anggota melalui kejuaraan badminton seperti kejuaraantingkat fakultas, tingkat universitas, maupun sparing antar Unit Kegiatan Mahasiswa.
+
+---
