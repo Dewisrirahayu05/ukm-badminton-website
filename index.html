@@ -42,6 +42,7 @@ width: 100%;
 </style>
 
 <div class="gallery-background">
-   {% include gallery id="layouts_home" %}
+  {% for item in page.layouts_home %}
+  {% include gallery id="layouts_home" %}
   {% endfor %}
 </div>
