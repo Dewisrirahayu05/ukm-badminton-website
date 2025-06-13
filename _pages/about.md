@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout: single
-layout_galerry:
+galerry:
   - url: /assets/logo_bavera.jpg
     image_path: /assets/logo_bavera.jpg
     alt: "logo"
