@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout_galerry:
- - url: /assets/logo_bavera.jpg
+  - url: /assets/logo_bavera.jpg
     image_path: /assets/logo_bavera.jpg
     alt: "logo"
 ---
@@ -27,9 +27,7 @@ dengan BUVEJA (Bulutangkis Veteran Jakarta), STIE ( Sekolah Tinggi Ilmu Ekonomi)
 
 ### **LOGO BAVERA**
 
-<p align="center">
-  <img src="/assets/logo_bavera.jpg" alt="Logo BAVERA" width="250"/>
-</p>
+{% include gallery id="layouts_gallery" %}
 
 Logo UKM Badminton BAVERA memiliki makna sebagai berikut:
 - Lingkaran
