@@ -21,7 +21,7 @@ Bavera pun tidak hanya mengikuti kejuaraan saja, Bavera juga beberapa kali spari
 dengan BUVEJA (Bulutangkis Veteran Jakarta), STIE ( Sekolah Tinggi Ilmu Ekonomi), Bulutangkis Universitas Gunadarma, Bulutangis UT Bogor, Badminton UNDIRA (Universitas Dian Nusantra).
 
 **Logo BAVERA**
-![](/assets/logo_bavera.jpg){: width="100%" .center}
+![logo](/assets/logo_bavera.jpg){: width="100%" .center}
 
 Logo UKM Badminton BAVERA memiliki makna sebagai berikut:
 a. Lingkaran
