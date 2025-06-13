@@ -3,7 +3,6 @@ permalink: /about/
 layout: single
 ---
 
-### **APA ITU BAVERA ?**
 Bavera adalah Badminton Universitas Indraprasta PGRI. Yang merupakan Unit Kegiatan Mahasiswa (UKM) Badminton di Universitas Indraprasta PGRI.
 UKM Bavera adalah wadah bagi mahasiswa-mahasiswi Universitas Indraprasta yang memiliki minat dan bakat dalam olahraga badminton.
 
