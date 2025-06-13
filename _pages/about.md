@@ -2,7 +2,6 @@
 title: "APA ITU BAVERA ?"
 permalink: /about/
 layout: single
-author_profile: true
 header:
   overlay_image: /assets/FEEDS2.png
   overlay_filter: 0.3
