@@ -3,16 +3,21 @@ layout: home
 header:
   overlay_image: /assets/FEEDS 1.png
   overlay_filter: 0.0
-gallery_home:
-  - image_path: /assets/FEEDS_2.png
+layouts_home:
+  - url: /assets/FEEDS_2.png
+    image_path: /assets/FEEDS_2.png
     alt: ""
-  - image_path: /assets/FEEDS_2_Bavera.png
+  - url: /assets/FEEDS_2_Bavera.png
+    image_path: /assets/FEEDS_2_Bavera.png
     alt: ""
-  - image_path: /assets/FEEDS_2_foto_bersama_sama_2.jpg
+  - url: /assets/FEEDS_2_foto_bersama_sama_2.jpg
+    image_path: /assets/FEEDS_2_foto_bersama_sama_2.jpg
     alt: ""
-  - image_path: /assets/FEEDS_2_tentang_unindra.jpg
+  - url: /assets/FEEDS_2_tentang_unindra.jpg
+    image_path: /assets/FEEDS_2_tentang_unindra.jpg
     alt: ""
-  - image_path: /assets/FEEDS_4_Unindra_13.jpg
+  - url: /assets/FEEDS_4_Unindra_13.jpg
+    image_path: /assets/FEEDS_4_Unindra_13.jpg
     alt: ""
 ---
 <style>
@@ -34,7 +39,6 @@ gallery_home:
 </style>
 
 <div class="gallery-background">
-  {% for item in page.gallery_home %}
-    {% include gallery id="gallery_home" %}
+  {% for item in page.layouts_home %}
   {% endfor %}
 </div>
