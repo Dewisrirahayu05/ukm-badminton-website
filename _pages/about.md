@@ -1,9 +1,6 @@
 ---
 permalink: /about/
 layout: single
-header:
-  overlay_image: /assets/FEEDS2.png
-  overlay_filter: 0.3
 ---
 
 ### **APA ITU BAVERA ?**
