@@ -12,6 +12,5 @@ search: false
   background-size: cover !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
-  aspect-ratio: 3 / 1; /* atau 3.5 / 1, coba-coba dulu */
-  height: auto;
+  padding-top: 25%; /* sekitar 4:1 rasio, sesuaikan */
 }
