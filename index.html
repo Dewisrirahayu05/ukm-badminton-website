@@ -15,4 +15,21 @@ gallery_home:
   - image_path: /assets/FEEDS_4_Unindra_13.jpg
     alt: ""
 ---
+<style>
+.gallery {
+  display: flex;
+  flex-direction: row; /* <-- horizontal */
+  gap: 15px; /* jarak antar gambar */
+  justify-content: center; /* biar rata tengah */
+  flex-wrap: wrap; /* biar responsif kalau gak muat */
+}
+
+.gallery img {
+  width: 600px;
+  height: auto;
+  object-fit: cover;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+</style>
+    
 {% include gallery id="gallery_home" %}
