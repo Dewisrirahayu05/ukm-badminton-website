@@ -1,5 +1,6 @@
 ---
 permalink: /about/
+layout: single
 layout_galerry:
   - url: /assets/logo_bavera.jpg
     image_path: /assets/logo_bavera.jpg
@@ -25,7 +26,7 @@ dengan BUVEJA (Bulutangkis Veteran Jakarta), STIE ( Sekolah Tinggi Ilmu Ekonomi)
 
 ---
 
-### **LOGO BAVERA**
+### LOGO BAVERA
 
 {% include gallery id="layouts_gallery" %}
 
@@ -41,14 +42,14 @@ Warna ini menyimbolkan tentang spiritualitas, kebijaksanaan, penguasaan, dan kek
 
 ---
 
-### **VISI**:
+### VISI:
 
 Menjadikan Unit Kegiatan Mahasiswa BAVERA meraih keunggulan dan prestasi di dalam
 maupunluar kampus bahkan nasional.
 
 ---
 
-### **MISI**:
+### MISI:
 - Meningkatkan kinerja pengurus dan anggota agar tercipta suatu persatuan,kesatuan dan kekeluargaan dalam satu organisasi.
 - Meningkatkan kualitas pelatihan agar bisa melihat potensial anggota dalam mengasah bakat dan kemampuannya dalam bermain badminton.
 - Memberikan pengalaman kepadaa para anggota melalui kejuaraan badminton seperti kejuaraantingkat fakultas, tingkat universitas, maupun sparing antar Unit Kegiatan Mahasiswa.
