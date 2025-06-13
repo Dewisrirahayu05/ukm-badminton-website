@@ -23,21 +23,27 @@ layouts_home:
 <style>
 /* Tambahkan gradasi yang sama dengan header FEEDS 1.png */
 .gallery-background {
-  background: linear-gradient(to bottom, #fffde8, #a8dcf0); /* sesuaikan gradasi FEEDS 1.png */
-  padding: 30px 0; /* kasih jarak atas bawah */
+  width: 100vw; /* full lebar layar */
+  background: linear-gradient(to bottom, #fffde8, #a8dcf0); /* sesuaikan gradasi header FEEDS 1 */
+  padding: 40px 0;
   margin: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
-/* Hapus margin/padding default dan buat gambar full */
-width: 100%;
-  max-width: 1000px; /* batasi lebar max agar responsif */
+.gallery-background img {
+  width: 100%;
+  max-width: 1000px; /* batasi ukuran max gambar biar nggak terlalu gede */
   height: auto;
   margin-bottom: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  border-radius: 10px; /* opsional buat efek rounded */
+  border-radius: 10px;
 }
 </style>
 
