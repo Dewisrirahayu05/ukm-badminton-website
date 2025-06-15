@@ -36,22 +36,24 @@ layouts_home:
     alt: ""
 ---
 <style>
-/* Tambahkan gradasi yang sama dengan header FEEDS 1.png */
-.gallery-background {
-  width: 100vw; /* full lebar layar */
-  background: linear-gradient(to bottom, #fffde8, #a8dcf0); /* sesuaikan gradasi header FEEDS 1 */
+.gallery-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to bottom, #fffde8, #a8dcf0);
   padding: 40px 0;
-  margin: 0;
-  position: relative;
-  left: 45%;
-  right: 45%;
-  margin-left: -49vw;
-  margin-right: -49vw;
+  width: 100%;
+}
+
+.gallery-background {
+  width: 100%;
+  max-width: 1200px;
+  padding: 0 20px;
 }
 
 .gallery-background img {
   width: 100%;
-  max-width: 1000px; /* batasi ukuran max gambar biar nggak terlalu gede */
+  max-width: 1000px;
   height: auto;
   margin-bottom: 20px;
   display: block;
@@ -62,6 +64,8 @@ layouts_home:
 }
 </style>
 
-<div class="gallery-background">
-  {% include gallery id="layouts_home" %}
+<div class="gallery-wrapper">
+  <div class="gallery-background">
+    {% include gallery id="layouts_home" %}
+  </div>
 </div>
