@@ -1,21 +1,6 @@
 ---
 permalink: /about/
 layout: single
-<style>
-/* Tambahkan gradasi yang sama dengan header FEEDS 1.png */
-.gallery-background {
-  width: 100vw; /* full lebar layar */
-  background: linear-gradient(to bottom, #fffde8, #a8dcf0); /* sesuaikan gradasi header FEEDS 1 */
-  padding: 40px 0;
-  margin: 0;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-}
-</style>
-<div> </div>
 ---
 
 Bavera adalah Badminton Universitas Indraprasta PGRI. Yang merupakan Unit Kegiatan Mahasiswa (UKM) Badminton di Universitas Indraprasta PGRI.
